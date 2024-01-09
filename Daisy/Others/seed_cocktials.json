@@ -1,0 +1,149 @@
+{
+  "recipes": {
+    "old_fashioned": {
+      "name": "Old Fashioned",
+      "description": "Classic cocktail recipe for an Old Fashioned",
+      "ingredients": {
+        "ingredient_uuid_1": {
+          "name": "Bourbon Whiskey",
+          "amount": 2.5,
+          "unit": "ounces"
+        },
+        "ingredient_uuid_2": {
+          "name": "Sugar Cube",
+          "amount": 1.0,
+          "unit": "piece"
+        },
+        "ingredient_uuid_3": {
+          "name": "Angostura Bitters",
+          "amount": 2.0,
+          "unit": "dashes"
+        },
+        "ingredient_uuid_4": {
+          "name": "Water",
+          "amount": 1.0,
+          "unit": "dash"
+        },
+        "ingredient_uuid_5": {
+          "name": "Orange Twist",
+          "amount": 1.0,
+          "unit": "piece"
+        }
+      }
+    },
+    "martini": {
+      "name": "Martini",
+      "description": "Classic cocktail recipe for a Martini",
+      "ingredients": {
+        "ingredient_uuid_6": {
+          "name": "Gin",
+          "amount": 2.5,
+          "unit": "ounces"
+        },
+        "ingredient_uuid_7": {
+          "name": "Dry Vermouth",
+          "amount": 0.5,
+          "unit": "ounces"
+        },
+        "ingredient_uuid_8": {
+          "name": "Olive",
+          "amount": 1.0,
+          "unit": "piece"
+        }
+      }
+    },
+    "margarita": {
+      "name": "Margarita",
+      "description": "Classic cocktail recipe for a Margarita",
+      "ingredients": {
+        "ingredient_uuid_9": {
+          "name": "Tequila",
+          "amount": 2.0,
+          "unit": "ounces"
+        },
+        "ingredient_uuid_10": {
+          "name": "Triple Sec",
+          "amount": 1.0,
+          "unit": "ounce"
+        },
+        "ingredient_uuid_11": {
+          "name": "Lime Juice",
+          "amount": 1.0,
+          "unit": "ounce"
+        },
+        "ingredient_uuid_12": {
+          "name": "Salt",
+          "amount": 1.0,
+          "unit": "pinch"
+        },
+        "ingredient_uuid_13": {
+          "name": "Ice",
+          "amount": 1.0,
+          "unit": "cup"
+        }
+      }
+    },
+    "daiquiri": {
+      "name": "Daiquiri",
+      "description": "Classic cocktail recipe for a Daiquiri",
+      "ingredients": {
+        "ingredient_uuid_14": {
+          "name": "White Rum",
+          "amount": 2.0,
+          "unit": "ounces"
+        },
+        "ingredient_uuid_15": {
+          "name": "Fresh Lime Juice",
+          "amount": 1.0,
+          "unit": "ounce"
+        },
+        "ingredient_uuid_16": {
+          "name": "Simple Syrup",
+          "amount": 0.75,
+          "unit": "ounce"
+        },
+        "ingredient_uuid_17": {
+          "name": "Ice",
+          "amount": 1.0,
+          "unit": "cup"
+        }
+      }
+    },
+    "mojito": {
+      "name": "Mojito",
+      "description": "Classic cocktail recipe for a Mojito",
+      "ingredients": {
+        "ingredient_uuid_18": {
+          "name": "White Rum",
+          "amount": 1.5,
+          "unit": "ounces"
+        },
+        "ingredient_uuid_19": {
+          "name": "Fresh Lime Juice",
+          "amount": 0.75,
+          "unit": "ounce"
+        },
+        "ingredient_uuid_20": {
+          "name": "Simple Syrup",
+          "amount": 0.5,
+          "unit": "ounce"
+        },
+        "ingredient_uuid_21": {
+          "name": "Fresh Mint Leaves",
+          "amount": 6.0,
+          "unit": "leaves"
+        },
+        "ingredient_uuid_22": {
+          "name": "Club Soda",
+          "amount": 2.0,
+          "unit": "ounces"
+        },
+        "ingredient_uuid_23": {
+          "name": "Ice",
+          "amount": 1.0,
+          "unit": "cup"
+        }
+      }
+    }
+  }
+}
